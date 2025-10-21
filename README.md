@@ -95,12 +95,13 @@ const sampath = {
 <img width="100%" src="https://github-profile-trophy.vercel.app/?username=sampathdp&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sampathdp/sampathdp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sampathdp/sampathdp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sampathdp/sampathdp/output/github-contribution-grid-snake-dark.svg">
-</picture>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sampathdp&theme=dracula&no-bg=true&margin-w=15&margin-h=15" />
+</p>
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 </div>
 
 ---
