@@ -106,21 +106,6 @@ const sampath = {
 
 ---
 
-## 💼 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/sampathdp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sampathdp&repo=your-game-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-</a>
-<a href="https://github.com/sampathdp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sampathdp&repo=your-software-project&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED" />
-</a>
-
-</div>
-
----
-
 ## 🎮 Game Development Focus
 
 <div align="center">
